@@ -1,0 +1,49 @@
+source,target,connection_count,preference_score
+Digital Archiving & Preservation,Digital Archiving & Preservation,49481,0.831865
+Digital Archiving & Preservation,Darknet Forums & Directories,37,0.000622
+Digital Archiving & Preservation,Anonymity & OPSEC Guidance,9963,0.167496
+Digital Archiving & Preservation,Financial Fraud & Money Laundering,1,0.000017
+Child Sexual Exploitation,Child Sexual Exploitation,17591,0.998467
+Child Sexual Exploitation,Law & Political Reporting,1,0.000057
+Child Sexual Exploitation,Illicit Drug Trade,1,0.000057
+Child Sexual Exploitation,Financial Fraud & Money Laundering,11,0.000624
+Child Sexual Exploitation,Illicit Marketplaces,13,0.000738
+Child Sexual Exploitation,Hacking & Malware,1,0.000057
+Law & Political Reporting,Digital Archiving & Preservation,6044,0.618818
+Law & Political Reporting,Law & Political Reporting,3699,0.378724
+Law & Political Reporting,Darknet Forums & Directories,12,0.001229
+Law & Political Reporting,Illicit Drug Trade,1,0.000102
+Law & Political Reporting,Anonymity & OPSEC Guidance,11,0.001126
+Darknet Forums & Directories,Digital Archiving & Preservation,33757,0.259290
+Darknet Forums & Directories,Child Sexual Exploitation,1566,0.012029
+Darknet Forums & Directories,Law & Political Reporting,205,0.001575
+Darknet Forums & Directories,Darknet Forums & Directories,94542,0.726185
+Darknet Forums & Directories,Anonymity & OPSEC Guidance,120,0.000922
+Illicit Drug Trade,Digital Archiving & Preservation,187,0.625418
+Illicit Drug Trade,Illicit Drug Trade,111,0.371237
+Illicit Drug Trade,Anonymity & OPSEC Guidance,1,0.003344
+Anonymity & OPSEC Guidance,Digital Archiving & Preservation,196,0.566474
+Anonymity & OPSEC Guidance,Law & Political Reporting,1,0.002890
+Anonymity & OPSEC Guidance,Darknet Forums & Directories,1,0.002890
+Anonymity & OPSEC Guidance,Anonymity & OPSEC Guidance,131,0.378613
+Anonymity & OPSEC Guidance,Financial Fraud & Money Laundering,1,0.002890
+Anonymity & OPSEC Guidance,Illicit Marketplaces,12,0.034682
+Anonymity & OPSEC Guidance,Hacking & Malware,3,0.008671
+Anonymity & OPSEC Guidance,Illicit Hosting Infrastructure,1,0.002890
+Financial Fraud & Money Laundering,Digital Archiving & Preservation,76,0.500000
+Financial Fraud & Money Laundering,Financial Fraud & Money Laundering,75,0.493421
+Financial Fraud & Money Laundering,Illicit Marketplaces,1,0.006579
+Illicit Marketplaces,Digital Archiving & Preservation,6,0.071429
+Illicit Marketplaces,Illicit Drug Trade,6,0.071429
+Illicit Marketplaces,Anonymity & OPSEC Guidance,8,0.095238
+Illicit Marketplaces,Illicit Marketplaces,42,0.500000
+Illicit Marketplaces,Hacking & Malware,6,0.071429
+Illicit Marketplaces,Illicit Hosting Infrastructure,16,0.190476
+Hacking & Malware,Digital Archiving & Preservation,9,0.176471
+Hacking & Malware,Law & Political Reporting,12,0.235294
+Hacking & Malware,Illicit Drug Trade,1,0.019608
+Hacking & Malware,Anonymity & OPSEC Guidance,10,0.196078
+Hacking & Malware,Financial Fraud & Money Laundering,3,0.058824
+Hacking & Malware,Hacking & Malware,11,0.215686
+Hacking & Malware,Illicit Hosting Infrastructure,5,0.098039
+Illicit Hosting Infrastructure,Illicit Hosting Infrastructure,8,1.000000
